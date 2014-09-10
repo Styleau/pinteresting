@@ -2,4 +2,4 @@
 
 This is a sample Ruby on Rails project for (http://styleau.com)
 
-by (Peter Hattingh)
+by (Styleau Inc.)
